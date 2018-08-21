@@ -10,13 +10,7 @@
 
 typedef void (*void_ptr)();
 
-static void
-die(const char * error);
-
 void *
 test_buffer_write();
-
-static int
-run(int threadnum, void (*f)(void) );
 
 #endif

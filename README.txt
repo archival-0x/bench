@@ -6,7 +6,7 @@ bench
 1. Introduction
 
 Testing for perfomance of specific programmatic tasks is important, especially when
-constructing high-latency systems. This is a benchmarking tool constructed for
+constructing low-latency systems. This is a benchmarking tool constructed for
 benchmarking CPU and memory-bound tests in the C programming language. It provides
 the user insight on performance for their processor, but also the ability to construct
 their own tests for their own purposes.
